@@ -1,0 +1,17 @@
+Revision history for Perl extension Barcode::EAN13.
+
+0.05  Colm Dougan, Tue Oct 17, 2000
+	- Much faster checksum code
+
+0.04  Tony Bowden, Fri Oct 6, 2000
+	- Minor code tweaks suggested by CD
+        - added issuer_ccode
+
+0.03  Tony Bowden, Thu Oct 5, 2000
+	- Rewrite of best_barcode to allow a preferences list
+
+0.02  Tony Bowden, Thu Oct 4, 2000
+	- created by h2xs 1.19
+
+0.01  Com Dougan, Thu Sep 19, 2000
+
